@@ -3,10 +3,7 @@ int a,b;
 initial
 begin
 	$display("the value of a %d and b %0d",a,b);
-// new line is added
-//new line addded
-//this is V3
-//this is V4 for git push
-//this is for clone
+	// git merge
+	// git merge 2
 end
 endmodule
